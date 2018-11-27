@@ -4,7 +4,7 @@ This mod shows people's ratings, levels and active kits when a Ranked game start
 
 ## Getting Started
 
-Go to Releases, download the latest version, move the jar to the mods directory.
+Go to [the latest release](https://github.com/Mdashl/ranked-helper/releases/latest), download the jar and move it to the mods directory.
 
 ## Preview
 

@@ -9,6 +9,8 @@ abstract class Command(private val alias: String) : CommandBase() {
 
   override fun getCommandUsage(sender: ICommandSender): String = "/$alias"
 
+  override fun canCommandSenderUseCommand(sender: ICommandSender): Boolean = true
+
   override fun processCommand(sender: ICommandSender, args: Array<out String>) {
     execute(args.toList())
   }

@@ -9,3 +9,7 @@ Go to [the latest release](https://github.com/Mdashl/ranked-helper/releases/late
 ## Preview
 
 ![hellothere](https://i.imgur.com/MeUsuve.png)
+
+## Additional Commands
+
+* /wdr \<player> - Report a player for everything. You don't have to type a reason.

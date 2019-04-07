@@ -2,6 +2,12 @@
 
 This mod shows people's ratings, levels and active kits when a Ranked game starts.
 
+# REWRITE
+
+Project has been rewritten and moveed to this repository:
+
+[**ranked-who**](https://github.com/mdashlw/ranked-who)
+
 ## Deprecation
 
 Project is not maintained. It still works, you can use it.
